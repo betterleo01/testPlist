@@ -1,8 +1,6 @@
 #!/bin/bash
 # author: sunhongzhi
-
-git pull origin master
-sleep 10
+cd $2
 git add .
 sleep 1
 git commit -m  "$1"
