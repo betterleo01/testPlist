@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://10.10.81.145:8080/ios/d6e49cf3-dc79-42c2-8a4b-8a3b2e73c4e9.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string></string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string></string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.finupgroup.finupplatform</string>
+				<key>bundle-version</key>
+				<string>XF_v3.5.3_屏蔽小凡分期相关入口_beta</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>NewBrand</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
