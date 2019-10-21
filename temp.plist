@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.finupgroup.finupplatform</string>
+				<string>com.easybuy.smallfilefish</string>
 				<key>bundle-version</key>
 				<string>%s</string>
 				<key>kind</key>
